@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1508181071356.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "49AF229C",
+    "lastKnownWriteTime" : 2475636339810066802,
+    "last_content_update" : 1508181071356,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "9B2DC09D",
+        "caption" : "mcgrath_actblue",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=mcgrath_actblue&cache_key=9B2DC09D",
+        "displayedObservations" : 459,
+        "environment" : "",
+        "object" : "mcgrath_actblue",
+        "preview" : 0,
+        "totalObservations" : 459,
+        "variables" : 22
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

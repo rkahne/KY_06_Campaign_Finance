@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1508173550322.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3741978114",
+    "id" : "1BFF0200",
+    "lastKnownWriteTime" : 1508184173,
+    "last_content_update" : 1508184173665,
+    "path" : "~/robert_kahne/ky_6_contrib/scripts/comparison.R",
+    "project_path" : "scripts/comparison.R",
+    "properties" : {
+        "cursorPosition" : "175,0",
+        "scrollLine" : "155",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

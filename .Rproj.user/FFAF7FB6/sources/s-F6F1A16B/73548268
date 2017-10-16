@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1508173611234.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "73548268",
+    "lastKnownWriteTime" : 31525476567548005,
+    "last_content_update" : 1508173611234,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "2E6F8476",
+        "caption" : "thomas_raw",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=thomas_raw&cache_key=2E6F8476",
+        "displayedObservations" : 157,
+        "environment" : "",
+        "object" : "thomas_raw",
+        "preview" : 0,
+        "totalObservations" : 157,
+        "variables" : 35
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
